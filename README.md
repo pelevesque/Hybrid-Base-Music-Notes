@@ -19,7 +19,7 @@ The table below shows HBMN in comparison to other values.
 
 | HBMN | Name    | MIDI | Piano | Freq     |
 | ---- | ------- | ---- | ----- | -------- |
-|  57  | G9      | 127  |       | 12543.85 |
+| __57__ | G9    | 127  |       | 12543.85 |
 |  56  | F♯9/G♭9 | 126  |       | 11839.82 |
 |  55  | F9      | 125  |       | 11175.30 |
 |  54  | E9      | 124  |       | 10548.08 |

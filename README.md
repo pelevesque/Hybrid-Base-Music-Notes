@@ -1,4 +1,4 @@
-# Hybrid Base Music Notes
+# Hybrid-Base Music Notes
 
 Hybrid Base Music Notes is a system for writing musical notes. It can be adapted to any scale which divides octaves equally.
 
@@ -15,30 +15,33 @@ middle C.
 
 Counting backwards into the negatives is a bit special. The leftmost digits representing the octaves and count backwards as expected, but the rightmost digit representing the note keeps the same order as when counting upwards.
 
-The table below shows HBMN in comparison to other systems.
+The table below shows HBMN in comparison to other values.
 
-| HBMN | Name | MIDI |
-| ---- | ---- | ---- |
-|  57  |      | 127  |
-|  56  |      | 126  |
-|  55  |      | 125  |
-|  54  |      | 124  |
-|  53  |      | 123  |
-|  52  |      | 122  |
-|  51  |      | 121  |
-|  50  |      | 120  |
-|  4b  |      | 119  |
-|  4a  |      | 118  |
-|  49  |      | 117  |
-|  48  |      | 116  |
-|  47  |      | 115  |
-|  46  |      | 114  |
-|  45  |      | 113  |
-|  44  |      | 112  |
-|  43  |      | 111  |
-|  42  |      | 110  |
-|  41  |      | 109  |
-|  40  |      | 108  |
+| HBMN | Name    | MIDI | Piano | Freq     |
+| ---- | ------- | ---- | ----- | -------- |
+|  57  | G9      | 127  |       | 12543.85 |
+|  56  | F♯9/G♭9 | 126  |       | 11839.82 |
+|  55  | F9      | 125  |       | 11175.30 |
+|  54  | E9      | 124  |       | 10548.08 |
+|  53  | D♯9/E♭9 | 123  |       |  9956.06 |
+|  52  | D9      | 122  |       |  9397.27 |
+|  51  | C♯9/D♭9 | 121  |       |  8869.84 |
+|  50  | C9      | 120  |       |  8372.02 |
+|  4b  | B8      | 119  |       |  7902.13 |
+|  4a  | A♯8/B♭8 | 118  |       |  7458.62 |
+|  49  | A8      | 117  |       |  7040.00 |
+|  48  | G♯8/A♭8 | 116  |       |  6644.88 |
+|  47  | G8      | 115  |       |  6271.93 |
+|  46  | F♯8/G♭8 | 114  |       |  5919.91 |
+|  45  | F8      | 113  |       |  5587.65 |
+|  44  | E8      | 112  |       |  5274.04 |
+|  43  | D♯8/E♭8 | 111  |       |  4978.03 |
+|  42  | D8      | 110  |       |  4698.64 |
+|  41  | C♯8/D♭8 | 109  |       |  4434.92 |
+|  40  | C8      | 108  | 88    |  4186.01 |
+
+
+
 |  3b  |      | 107  |
 |  3a  |      | 106  |
 |  39  |      | 105  |
@@ -51,6 +54,11 @@ The table below shows HBMN in comparison to other systems.
 |  32  |      | 98   |
 |  31  |      | 97   |
 |  30  |      | 96   |
+
+
+
+
+
 |  2b  |      | 95   |
 |  2a  |      | 94   |
 |  29  |      | 93   |

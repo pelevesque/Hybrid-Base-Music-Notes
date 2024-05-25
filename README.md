@@ -8,24 +8,24 @@ Copyright 2024 Pierre-Emmanuel Lévesque
 
 ## About
 
-Hybrid-Base Music Notes is a system for writing musical notes which
-be adapted to any scale which divides octaves similarly.
+Hybrid-Base Music Notes is a system for writing musical notes.
 
+It is formed in two parts:
 
+1)
 
+A rightmost digit in the number-base equal to the number of
+notes in the octave. This digit is used to represent the note.
 
+E.g. A number-base of 12 is used to represent western music in
+twelve notes. For a pentatonic scale, base-5 would be used.
 
+Note: The number-base can change per octave if different octaves
+of the scale have different number of notes. Its also possible to
+use any element in the number-base system. A base-10 system could
+use a b c d e f g h i j instead of 0 1 2 3 4 5 6 7 8 9.
 
-----------------------------------------------------------------------
-
-
-
-The rightmost digit is in the number-base equal to the number of divisions in the octave. This digit is used to
-represent the note. E.g. If we wish to represent western music in 12-note equal temperament, base-12 would be used. For a pentatonic scale, base-5 would
-be used.
-
-- give example... give series of notes...
-
+2)
 
 
 
@@ -35,10 +35,31 @@ from the base octave.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+- give example... give series of notes...
+
+
+
+
+
+
+
+
 -- Here we give examples:
 
 
-
+----------------------------------------------------------------------
 
 
 00 is the base note. It is the first note of the octave deemed to be base octave. In western music, this could be

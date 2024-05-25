@@ -1,14 +1,45 @@
 # Hybrid-Base Music Notes
 
-Hybrid-Base Music Notes is a system for writing musical notes. It can be adapted to any scale which divides octaves equally.
+## Birth
+
+Hybrid-Base Music Notes was invented on May 23rd 2024.
+
+Copyright 2024 Pierre-Emmanuel Lévesque
+
+## About
+
+Hybrid-Base Music Notes is a system for writing musical notes which
+be adapted to any scale which divides octaves similarly.
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
 
 The rightmost digit is in the number-base equal to the number of divisions in the octave. This digit is used to
 represent the note. E.g. If we wish to represent western music in 12-note equal temperament, base-12 would be used. For a pentatonic scale, base-5 would
 be used.
 
+- give example... give series of notes...
+
+
+
+
 All other digits left of the rightmost digit are in base-10.
 These digits are used to represent the number of octaves
 from the base octave.
+
+
+
+-- Here we give examples:
+
+
+
+
 
 00 is the base note. It is the first note of the octave deemed to be base octave. In western music, this could be
 middle C.
